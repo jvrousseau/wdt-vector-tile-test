@@ -9,6 +9,7 @@
   "author": "Jordan",
   "license": "ISC",
   "dependencies": {
+    "pako": "^0.2.5",
     "pbf": "0.0.2",
     "vector-tile": "^0.1.2"
   }
