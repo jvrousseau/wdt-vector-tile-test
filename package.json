@@ -1,0 +1,15 @@
+{
+  "name": "wdt-vector-tile-test",
+  "version": "0.0.0",
+  "description": "testing wdt's pbf tiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan",
+  "license": "ISC",
+  "dependencies": {
+    "pbf": "0.0.2",
+    "vector-tile": "^0.1.2"
+  }
+}
